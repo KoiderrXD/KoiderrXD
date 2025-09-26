@@ -14,7 +14,6 @@
 ![Пример 2](images/2.png)
 ![Пример 3](images/3.png)
 ![Пример 4](images/4.png)
-![Пример 5](images/5.png)
 
 ---
 
